@@ -1,5 +1,9 @@
 # Graph2GNNs
 An Empirical Study Of Neural Network Based Graph Representations For Software Defect Prediction
+
+Due to GitHub's file size limitations, the dataset used in this study is provided at the following link: 
+https://zenodo.org/records/18335830
+
 ### Repository Structure
 - `GNN` : The datasets of all experiments.
 
